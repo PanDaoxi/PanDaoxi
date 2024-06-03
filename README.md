@@ -1,4 +1,4 @@
-<img src="./head.png" alt="HEAD"  />
+<img src="https://pandaoxi.github.io/head.png" alt="HEAD"  />
 
 # 「PanDaoxi」
 
@@ -41,11 +41,11 @@
 ![欢迎信息](https://api.xecades.xyz/api?color=30%2C34%2C42%2C100&bg=200%2C200%2C200%2C100&date=2024-09-22&str=我的+15+岁生日&quote=✨+用心动脑，卓尔不群+✨&site=pandaoxi.github.io&bilibili=PanDaoxi&email=pandaoxi365@gmail.com&wechat=pandaoxi2021&luogu=PanDaoxi&qq=2060642520)
 <center>欢迎访客</center>
 
-![我校校徽](./2.png)
+![我校校徽](https://pandaoxi.github.io/2.png)
 
 <center>我校校徽</center>
 
-![照片](./1.jpg)
+![照片](https://pandaoxi.github.io/1.jpg)
 <center>我和我的同学</center>
 
 ---
@@ -54,7 +54,7 @@
 
 -   最喜欢的歌曲：《奔向辉煌》
 
-    ![3](./3.png)
+    ![3](https://pandaoxi.github.io/3.png)
 
 -   最喜欢的诗词：
 
